@@ -8,7 +8,7 @@ The idea of this project was inspired by Joomla or Drupal CMS which let people c
 
 The code was written in OOP (Object Oriented programming) which was quite new to PHP (which supported OOP from version 5). The website was divided into different parts such as 
 
-* `component` which provides the main content in a web page.
+* `component` which provides the main content on a web page.
 
 * `module` or `plugin` provides additional minor features to the website.
 
@@ -16,4 +16,4 @@ The code was written in OOP (Object Oriented programming) which was quite new to
 
 ---
 
-The project was coded by myself in amateur coding as I started learning to program from day 1.
+The project was coded by myself in amateur coding as I started learning to program from day 1. The project was abandoned because it was obsolete and behind the times. There are many good CMS in PHP such as Joomla, Drupal, and WordPress.

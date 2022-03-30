@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>http://hlp007.com/</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.1</priority>
+   </url>
+   <url>
+      <loc>http://blog.hlp007.com/</loc>
+      <changefreq>daily</changefreq>
+	  <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>http://blog.hlp007.com/blog/0/1-0/hlp2010.html</loc>
+      <changefreq>daily</changefreq>
+	  <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>http://blog.hlp007.com/comment/hlp2010.html</loc>
+      <priority>0.5</priority>
+   </url>
+</urlset>

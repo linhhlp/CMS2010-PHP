@@ -1,0 +1,83 @@
+/* CSS Document */
+@CHARSET "utf-8";
+body{
+background-color: black;
+/* background:url(images/bg_ne.jpg) white no-repeat fixed center top; */
+margin-top:10px;
+text-align: center;
+color:black;
+
+}
+a {color:blue;}
+.wrapper {width:600px;margin: 0 auto !important;padding: 0 !important;text-align:left;
+/* float:right; */
+}
+.clr {clear:both;}
+#header {
+height:20px;
+}
+
+.menu_title {background:url(images/menutitle.GIF) no-repeat;width:254px;height:44px;padding-top:5px;text-align:center;}
+.upper_menu {width:254px;height:295px;background:url(images/menuheader.GIF) no-repeat;}
+.menu {width:100%;width:254px;background:url(images/menubg.GIF) repeat-y;border:thin solid #CCCCCC;text-align:center;float:left;}
+.search {height:36px;float:left;width:100%;background:url(images/search.GIF) center no-repeat;padding-top:15px;}
+.search input {margin-left:20%;}
+.search_adv_link {margin-right:0%;}
+#main_content {width:580px;padding-right: 10px;padding-left: 10px;}
+.top_menu {width:570px;background:url(images/nav.gif) repeat-x;height:35px;}
+.top_title {width:370px;height:75px;background:url(images/title.GIF) no-repeat;padding-top:0;padding-left:5px;}
+.content_blog_top {width:600px;height:23px;background:url(images/mainheader.GIF) no-repeat;}
+.content_blog_bottom {width:600px;height:36px;background:url(images/mainbottom.GIF) no-repeat;}
+.content_blog {width:600px;background:url(images/mainbg.GIF) repeat-y;}
+.info {width:253px;height:472px;background:url(images/rightbg.GIF) no-repeat top;margin:0;padding:0;}
+.slogan { font-size:24px;font-weight:bold;text-align:center;padding-top:5px;}
+.new_pic {width:253px;height:215px;background:url(images/newpicbg.GIF) no-repeat;}
+
+/* User bonus */
+.userbonus { margin: auto; text-align: center;width: 80%;background-color: white;color:black;}
+.userbonus label {text-align: right;}
+.canh_bao_userbounus {color: red;}
+.userbounus_username {color: red;}
+.userbounus_content {background-color: #bababa ;width:90%;float:right}
+.link_us {color:red;text-decoration: underline;}
+/* End User bonus       */
+
+/* Comment - hlp module */
+
+.COMMENT_HLP {width:95%;text-align: left;padding-left:10px;color:black;}
+.COMMENT_HLP_LABEL {text-align: left;}
+.COMMENT_HLP_USER {font-size:small;text-align: left;color: blue;padding-left:20px;border-bottom: green 1px solid;width:100%;}
+.COMMENT_HLP_USER a {color: red;text-decoration: none;}
+.COMMENT_HLP_TITLE {font-size:large;color: red;padding-left:10px;}
+.COMMENT_HLP_COMMENT {width:95%;padding-left:10px;}
+.COMMENT_HLP_h3 {text-align: center; }
+.COMMENT_HLP_TATCA {background-color:white;color:blue;	}
+.COMMENT_HLP_PAGE_TITLE {color:white; text-align: right;float:right;}
+.COMMENT_HLP_PAGE {display: block;width: 20px;height: 20px;border: 1px solid black;padding-right: 10px;padding-left: 10px;color:black;text-align: center;float: left; }
+.COMMENT_HLP_PAGE_CURRENT {display: block;width: 20px;height: 20px;border: 1px solid black;padding-right: 10px;padding-left: 10px;color:gray;text-align: center;float: left;}
+/* End Comment - hlp module */	
+
+
+/* Main Content for blog */
+.COMMENT_HLP_A_ITEM {background-color:#dadada ;padding:10px;margin-top:10px;margin-left: 5%;width:86%;}
+
+.CONTENT_HLP_PAGE_TITLE {color:black;text-align: right;float:right;padding-right: 20%;}
+.CONTENT_HLP_PAGE {display: block;width: 20px;height: 20px;border: 1px solid black;padding-right: 20px;color:black;text-align: center;float: left;}
+.CONTENT_HLP_PAGE_CURRENT {display: block;width: 20px;height: 20px;border: 1px solid black;padding-right: 10pxpadding-left: 10px;color:gray; text-align: center;float: left;}
+.CONTENT_TITLE {color:#06F;font-size:large;text-indent:5px;margin-left: 5%;}
+.CONTENT_DATE {color:#999;font-size:smaller;text-align:right;margin-right: 10%;}
+.CONTENT_TEXT {font-size:medium;color:black;margin-left: 5%;width:90%;background-color: #bababa;padding-top:3px;padding-bottom:5px;}
+.CONTENT_TITLE a{text-decoration: none;font-size:1.1em;}
+.CONTENT_HR {width:90%;height:2px;border-bottom: #FF0 2px solid;margin-left: 5%;}
+h3.CONTENT_THONGKE {text-align:center;color:#FF0;}
+.CONTENT_THONGKE_THEO {text-align:center;color:#FFF;}
+.CONTENT_SPECIAL {color:red;}
+.cmt_for_items {width:86%;margin-left:50px;background-color:#eaeaea ;padding-top:5px;padding-bottom:5px;}
+.cmt_HR {width:100%;height:2px;border-bottom: #fff 2px solid;margin-left: 50;}
+/* End Main Content for blog */
+.link {
+color:blue;
+cursor:pointer;
+}
+.readmore {color:#3b5998;
+cursor:pointer;}
