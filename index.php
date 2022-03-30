@@ -6,10 +6,6 @@
  * @copyright	Copyright (C) 2010 by HLP.
  * @license		Open Source and free for non-conmecial
  * This is blog website which is coded in PHP by HLP4ever.
- * Thank you for using it.
- * If it gets a trouble or error, please mail me by email : linh.hlp@gmail.com
- * For documentation, try this link: hlp007.com/code or hlp7.com/code
- * 
  * This is index file.
  * 
  */
