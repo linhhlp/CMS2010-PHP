@@ -1,4 +1,4 @@
-# CMS-PHP
+# Content Management System in PHP/HTML/CSS/JavaScript
 
 **The project is read-only for references.**
 
