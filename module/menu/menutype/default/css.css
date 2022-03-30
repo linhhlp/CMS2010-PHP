@@ -1,0 +1,37 @@
+.glossymenu {
+float:left;
+}
+.glossymenu li {
+margin-left:0px;
+text-align:center;
+list-style-type: none;
+width: 180px; 
+}
+
+.glossymenu li a{
+background: white url(glossyback.gif) repeat-x bottom left;
+font: bold 12px Verdana, Helvetica, sans-serif;
+color: white;
+display: block;
+padding: 5px 0;
+padding-left: 10px;
+text-decoration: none;
+}
+
+
+.glossymenu .arrowdiv{
+position: absolute;
+background: transparent url(arrow.gif) no-repeat center right;
+}
+.glossymenu li a:visited	{
+color: white;
+}
+
+.glossymenu li a:hover{
+color: blue;
+background-image: url(glossyback2.gif);
+}
+.glossymenu li a:active{
+color: red;
+}
+/* End */

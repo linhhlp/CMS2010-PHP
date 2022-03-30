@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hlp_webblog version="2009">
+	<type name="template" verson="1.0">
+		<detail>
+			<name>back to ownself</name>
+			<title>Template for change </title>
+			<author>HLP4ever 2010</author>
+			<version>2.0</version>
+		</detail>
+		<install>
+			<file>
+				<filename>index.php</filename>
+			</file>
+			<database>
+			<table name="" field=""></table>
+			</database>
+		</install>
+	</type>
+</hlp_webblog>

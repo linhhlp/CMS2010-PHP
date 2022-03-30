@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hlp_webblog version="2010">
+	<type name="module">
+		<detail>
+			<name>aboutme</name>
+			<title>Create community account</title>
+			<author>HLP4ever 2010</author>
+			<version>1.0 beta</version>
+		</detail>
+		<install>
+			<file>
+				<filename>index.php</filename>
+			</file>
+			<params></params>
+			<database>
+			<table name="" field=""></table>
+			</database>
+		</install>
+	</type>
+</hlp_webblog>

@@ -1,0 +1,30 @@
+@charset "utf-8";
+html {
+	text-align:center;
+}
+body {
+	margin:0 auto;
+	padding:0;
+	text-align:left;
+	width:750px;
+	border:1px #666 solid;
+	background:url(bg.jpg) no-repeat top center;
+}
+.welcome {
+	text-align:center;
+}
+label {
+	width:100px;
+	display:block;
+	float:left;
+}
+.recommended {
+	color:red;
+}
+.sucessful {
+	color:red;
+}
+.unsuccessful {
+	color:red;
+	text-decoration:blink;
+}

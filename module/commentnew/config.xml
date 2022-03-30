@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hlp_webblog version="2010">
+	<type name="module">
+		<detail>
+			<name>commentnew</name>
+			<title>new blog Comment</title>
+			<author>HLP4ever 2010</author>
+			<version>1.0 beta</version>
+		</detail>
+		<install>
+			<file>
+				<filename>index.php</filename>
+			</file>
+			<params>frontpage,15</params>
+			<database>
+			<table name="" field=""></table>
+			</database>
+		</install>
+	</type>
+</hlp_webblog>
